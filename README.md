@@ -1,2 +1,2 @@
 # gopl-exercises
-solutions to exercises in the book http://gopl.io
+My solutions to exercises in the book "The Go programming language" http://gopl.io
